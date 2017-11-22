@@ -1,0 +1,22 @@
+{
+    "menu": {
+        "home": "Home",
+        "send":  "Send",
+        "receive": "Receive"
+    },
+    "home": {
+        "title": "Home",
+        "description": " Description use translator in file en.json"
+    },
+    "send": {
+        "title": "Send",
+        "description": "Sending Cryptocurrency (lazy-loaded module)"
+    },
+    "receive": {
+        "title": "Receive",
+        "description": "Receiving Cryptocurrencies (lazy-loaded module)."
+    },
+    "phone": {
+        "edition": "Phone Edition!"
+    }
+}

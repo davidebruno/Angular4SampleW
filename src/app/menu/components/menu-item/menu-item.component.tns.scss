@@ -1,0 +1,9 @@
+Button {
+    margin:0 20;
+    color:rgb(49, 47, 47);
+    font-size:15px;
+    font-weight:bold;
+    &.active {
+        color: rgb(59, 144, 255);
+    }
+}

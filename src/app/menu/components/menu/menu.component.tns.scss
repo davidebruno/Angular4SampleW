@@ -1,0 +1,8 @@
+$menuHeight: 80;
+
+StackLayout {
+    // background-color: rgb(190, 194, 197);
+    height:$menuHeight;
+    line-height:$menuHeight;
+    padding:0 20;
+}
